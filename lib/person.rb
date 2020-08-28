@@ -2,9 +2,9 @@ class Person
   def initialize(name)
 end
     
-Dog.new("fido")
-Dog.new("snoopy")
-Dog.new("lassi")
+Person.new("adele goldberg")
+Person.new("alan kay")
+
 
 
 
