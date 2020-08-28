@@ -1,7 +1,8 @@
 class Person
   def initialize(name)
 end
-    
-Person.new("adele goldberg")
-Person.new("alan kay")
 end
+
+adele_goldberg = Person.new("adele goldberg")
+alan_kay = Person.new("alan kay")
+
