@@ -1,8 +1,7 @@
 class Dog
   def initialize(name)
     
-def fido
- fido = Dog.new
+Dog.new(fido)
   
 def snoop
   snoop = Dog.new
